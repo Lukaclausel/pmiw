@@ -1,5 +1,6 @@
 // Valentino Diaz Palma
 // Luka Clausel
+// https://www.youtube.com/watch?v=jYhr2Z6ffwE
 let musica;
 let fondo;
 let shuriken;
